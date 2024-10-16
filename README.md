@@ -30,4 +30,4 @@ You can easily add more questions to the quiz by editing the `questions` list in
 
 ## Note
 
-I created this simple quiz app with input from AI while making a simple app to quiz myself in basic Python. I am still working on that one, but you can find it [here].(https://github.com/ashleysally00/simple-quiz-app/blob/main/python-quiz-app.py)
+I created this simple quiz app with input from AI while making a simple app to quiz myself in basic Python. I am still working on that one, but you can find it [here](https://github.com/ashleysally00/simple-quiz-app/blob/main/python-quiz-app.py).
