@@ -1,5 +1,5 @@
 
-# Simple Quiz App 
+# Simple Quiz App :notebook: <h2>✏️<h2>
 
 This is a basic quiz application written in Python. It allows users to test their knowledge on various topics through a series of questions.
 Alternatively, you can download the file, change the topic, questions, and answers to design your own quiz!
@@ -28,6 +28,6 @@ Alternatively, you can download the file, change the topic, questions, and answe
 
 You can easily add more questions to the quiz by editing the `questions` list in the `quiz_app.py` file. Each question should be a dictionary with "question", "answer", and "explanation" keys.
 
-## Note
+## Note :snake:
 
 I made this simple quiz app with input from AI while trying to creat a simple app to quiz myself in basic Python. I am still working on that one, but you can find it [here](https://github.com/ashleysally00/simple-quiz-app/blob/main/python-quiz-app.py).
